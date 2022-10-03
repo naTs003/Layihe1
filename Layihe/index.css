@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300&family=Montserrat:ital,wght@0,400;1,500&family=Roboto:wght@400;500;700&display=swap');
+
+body {
+    font-family: 'Roboto';
+}
+
+.img1 {
+    position: absolute;
+    width: 112px;
+    height: 66px;
+    left: 121px;
+    top: 21px;
+    background: url(logo_mobile_black.png);
+}
+
+.img2 {
+    position: absolute;
+    width: 304px;
+    height: 356px;
+    left: 890px;
+    top: 223px;
+    background: url(noroot.png);
+}
+
+.img3 {
+    position: absolute;
+    width: 274px;
+    height: 41px;
+    left: 921px;
+    top: 558px;
+    background: #EFEFEF;
+    border-radius: 100%;
+    z-index: -1;
+}
+
+.img4 {
+    position: absolute;
+    width: 483.63px;
+    height: 200.02px;
+    left: 409.39px;
+    top: 666.62px;
+}
+
+.kak {
+    position: absolute;
+    width: 628px;
+    height: 190px;
+    left: 122px;
+    top: 248px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 101.38%;
+    color: #000000;
+}
+
+text {
+    position: absolute;
+    width: 414px;
+    height: 62px;
+    left: 122px;
+    top: 460px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.aaa {
+    position: absolute;
+    width: 130px;
+    height: 32px;
+    left: 151px;
+    top: 187px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    color: #000000;
+}
+
+.bbb {
+    position: absolute;
+    width: 130px;
+    height: 32px;
+    left: 338px;
+    top: 187px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    color: #000000;
+}
+
+.ccc {
+    position: absolute;
+    width: 130px;
+    height: 32px;
+    left: 500px;
+    top: 187px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    color: #000000;
+}
+
+.globe {
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    left: 121px;
+    top: 206px;
+    background: url(globe.png);
+}
+
+.clock {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 306px;
+    top: 206px;
+    background: url(clock.png);
+}
+.calendar{
+position: absolute;
+width: 20px;
+height: 22px;
+left: 467px;
+top: 206px;
+background: url(calendar.png);
+}
